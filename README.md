@@ -21,6 +21,7 @@ Output:
 ### Packages:
 - os
 - re
+- sys
 
 ### Recommendations:
 - Use input function to ask from the user
